@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ccd111e9-6f3b-4a70-a582-691b37d59f58" name="Default" comment="" />
+    <list default="true" id="ccd111e9-6f3b-4a70-a582-691b37d59f58" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/com/def/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/def/practice/AdjacentEqualNumberList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/def/practice/FindSequenceInAList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/def/practice/FindSmallestAndLargest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/def/practice/FirstAndFourthLetter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/def/practice/ReturnIfStringStartWithSameChar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/def/practice/ReverseCharInString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/def/practice/ThreeCharacyterStrin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/def/practice/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,78 +23,22 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/BasicPractise$PigLatin.coverage" NAME="PigLatin Coverage Results" MODIFIED="1532407170552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/basic" />
     <SUITE FILE_PATH="coverage/BasicPractise$CreateLambda1.coverage" NAME="CreateLambda1 Coverage Results" MODIFIED="1533321689364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/lambda" />
+    <SUITE FILE_PATH="coverage/BasicPractise$FindSmallestAndLargest.coverage" NAME="FindSmallestAndLargest Coverage Results" MODIFIED="1533599151265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/def/practice" />
     <SUITE FILE_PATH="coverage/BasicPractise$pystrings.coverage" NAME="pystrings Coverage Results" MODIFIED="1532405218220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/basic" />
-    <SUITE FILE_PATH="coverage/BasicPractise$List.coverage" NAME="List Coverage Results" MODIFIED="1532574560648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/basic" />
     <SUITE FILE_PATH="coverage/BasicPractise$FindAWordInString.coverage" NAME="FindAWordInString Coverage Results" MODIFIED="1532405254996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/basic" />
     <SUITE FILE_PATH="coverage/BasicPractise$ReturnEvenNumberList.coverage" NAME="ReturnEvenNumberList Coverage Results" MODIFIED="1532572525085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/basic" />
+    <SUITE FILE_PATH="coverage/BasicPractise$AdjacentEqualNumberList.coverage" NAME="AdjacentEqualNumberList Coverage Results" MODIFIED="1533608030550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/def/practice" />
+    <SUITE FILE_PATH="coverage/BasicPractise$FirstAndFourthLetter.coverage" NAME="FirstAndFourthLetter Coverage Results" MODIFIED="1533599917835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/def/practice" />
+    <SUITE FILE_PATH="coverage/BasicPractise$ReverseCharInString.coverage" NAME="ReverseCharInString Coverage Results" MODIFIED="1533607748405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/def/practice" />
+    <SUITE FILE_PATH="coverage/BasicPractise$List.coverage" NAME="List Coverage Results" MODIFIED="1532574560648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/basic" />
+    <SUITE FILE_PATH="coverage/BasicPractise$ReturnIfStringStartWithSameChar.coverage" NAME="ReturnIfStringStartWithSameChar Coverage Results" MODIFIED="1533599507170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/def/practice" />
+    <SUITE FILE_PATH="coverage/BasicPractise$ThreeCharacyterStrin.coverage" NAME="ThreeCharacyterStrin Coverage Results" MODIFIED="1533608201354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/def/practice" />
+    <SUITE FILE_PATH="coverage/BasicPractise$FindSequenceInAList.coverage" NAME="FindSequenceInAList Coverage Results" MODIFIED="1533608858107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/def/practice" />
     <SUITE FILE_PATH="coverage/BasicPractise$ArgsKwArgs.coverage" NAME="ArgsKwArgs Coverage Results" MODIFIED="1532571398027" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/basic" />
     <SUITE FILE_PATH="coverage/BasicPractise$SkyLine.coverage" NAME="SkyLine Coverage Results" MODIFIED="1532574434199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/com/basic" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pystrings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/basic/pystrings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FindAWordInString.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/basic/FindAWordInString.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PigLatin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/basic/PigLatin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArgsKwArgs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/basic/ArgsKwArgs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReturnEvenNumberList.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/basic/ReturnEvenNumberList.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SkyLine.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/basic/SkyLine.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="List.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/com/basic/List.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CreateHistogram1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/math/CreateHistogram1.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +51,79 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreateLambda1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CreateLambda1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/com/lambda/CreateLambda1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/def/practice/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="FindSmallestAndLargest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/def/practice/FindSmallestAndLargest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReturnIfStringStartWithSameChar.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/def/practice/ReturnIfStringStartWithSameChar.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FirstAndFourthLetter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/def/practice/FirstAndFourthLetter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseCharInString.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/def/practice/ReverseCharInString.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AdjacentEqualNumberList.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/def/practice/AdjacentEqualNumberList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreeCharacyterStrin.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/def/practice/ThreeCharacyterStrin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindSequenceInAList.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/def/practice/FindSequenceInAList.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -114,6 +137,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -126,6 +152,13 @@
         <option value="$PROJECT_DIR$/com/basic/List.py" />
         <option value="$PROJECT_DIR$/com/math/CreateHistogram1.py" />
         <option value="$PROJECT_DIR$/com/lambda/CreateLambda1.py" />
+        <option value="$PROJECT_DIR$/com/def/practice/FindSmallestAndLargest.py" />
+        <option value="$PROJECT_DIR$/com/def/practice/ReturnIfStringStartWithSameChar.py" />
+        <option value="$PROJECT_DIR$/com/def/practice/FirstAndFourthLetter.py" />
+        <option value="$PROJECT_DIR$/com/def/practice/ReverseCharInString.py" />
+        <option value="$PROJECT_DIR$/com/def/practice/AdjacentEqualNumberList.py" />
+        <option value="$PROJECT_DIR$/com/def/practice/ThreeCharacyterStrin.py" />
+        <option value="$PROJECT_DIR$/com/def/practice/FindSequenceInAList.py" />
       </list>
     </option>
   </component>
@@ -144,6 +177,7 @@
     <option name="width" value="1400" />
     <option name="height" value="935" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -166,7 +200,14 @@
               <item name="BasicPractise" type="b2602c69:ProjectViewProjectNode" />
               <item name="BasicPractise" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="lambda" type="462c0819:PsiDirectoryNode" />
+              <item name="def" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BasicPractise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BasicPractise" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="def" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -191,8 +232,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.CreateLambda1">
-    <configuration name="CreateHistogram1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.FindSequenceInAList">
+    <configuration name="AdjacentEqualNumberList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,37 +241,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/math" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/def/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/math/CreateHistogram1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="CreateLambda1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="BasicPractise" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/lambda" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/lambda/CreateLambda1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/def/practice/AdjacentEqualNumberList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FindSequenceInAList" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,18 +260,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/def/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/basic/List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/def/practice/FindSequenceInAList.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ReturnEvenNumberList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FirstAndFourthLetter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,18 +279,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/def/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/basic/ReturnEvenNumberList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/def/practice/FirstAndFourthLetter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="SkyLine" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReverseCharInString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="BasicPractise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -276,31 +298,50 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/basic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/def/practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/basic/SkyLine.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/def/practice/ReverseCharInString.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ThreeCharacyterStrin" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="BasicPractise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/def/practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/def/practice/ThreeCharacyterStrin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.ReturnEvenNumberList" />
-      <item itemvalue="Python.SkyLine" />
-      <item itemvalue="Python.List" />
-      <item itemvalue="Python.CreateHistogram1" />
-      <item itemvalue="Python.CreateLambda1" />
+      <item itemvalue="Python.FirstAndFourthLetter" />
+      <item itemvalue="Python.ReverseCharInString" />
+      <item itemvalue="Python.AdjacentEqualNumberList" />
+      <item itemvalue="Python.ThreeCharacyterStrin" />
+      <item itemvalue="Python.FindSequenceInAList" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.CreateLambda1" />
-        <item itemvalue="Python.CreateHistogram1" />
-        <item itemvalue="Python.List" />
-        <item itemvalue="Python.SkyLine" />
-        <item itemvalue="Python.ReturnEvenNumberList" />
+        <item itemvalue="Python.FindSequenceInAList" />
+        <item itemvalue="Python.ThreeCharacyterStrin" />
+        <item itemvalue="Python.AdjacentEqualNumberList" />
+        <item itemvalue="Python.ReverseCharInString" />
+        <item itemvalue="Python.FirstAndFourthLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -323,18 +364,18 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" x="0" y="0" width="300" height="735" id="Documentation" order="5" sideWeight="0.50259966" side_tool="true" visible="true" />
+      <window_info anchor="right" x="0" y="0" width="300" height="735" id="Documentation" order="5" sideWeight="0.50180507" side_tool="true" visible="true" weight="0.34020618" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.329849" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33890215" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.329849" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.329849" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293556" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49819493" visible="true" weight="0.2569956" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" sideWeight="0.49740034" visible="true" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="SciView" order="4" sideWeight="0.49819493" visible="true" weight="0.34020618" />
+      <window_info id="Structure" order="1" sideWeight="0.50180507" side_tool="true" visible="true" weight="0.2569956" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39976135" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -549,6 +590,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/def/practice/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/def/practice/ReturnIfStringStartWithSameChar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/def/practice/ReverseCharInString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/def/practice/ThreeCharacyterStrin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/def/practice/FirstAndFourthLetter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/def/practice/FindSmallestAndLargest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/def/practice/AdjacentEqualNumberList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/def/practice/FindSequenceInAList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
         </state>
       </provider>
     </entry>
